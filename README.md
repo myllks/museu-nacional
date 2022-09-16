@@ -2,7 +2,7 @@
 
 Criado através do curso de Desenvolvimento Web pela Udemy
 
-[preview] (./.github/preview.png)
+[preview](./.github/preview.png)
 
 [🔗 Clique aqui para acessar](https://myllks.github.io/museu-nacional/) 
 
